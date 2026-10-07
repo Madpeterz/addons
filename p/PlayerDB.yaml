@@ -1,6 +1,6 @@
 name: PlayerDB
 alias: PlayerDB
-description: Logs players you target: name, guild, faction, gs to a file to be used for other shit
+description: Logs players you target name, guild, faction, gs to a file to be used for other shit
 author: Madpeter
 repo: Madpeterz/PlayerDB
 branch: main
